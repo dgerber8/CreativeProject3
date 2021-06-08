@@ -1,7 +1,7 @@
 <template>
 <div>
 <a style = "margin: auto;" class="repolink" href="https://github.com/dgerber8/CreativeProject3.git">
-  <p style = "margin: auto; text-align: center;">Dalan Gerber and Will Hainsworth Github Repo</p>
+  <p style = "margin: auto; text-align: center;">Github Repo</p>
   </a>
   <div class="wrapper">
 

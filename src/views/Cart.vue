@@ -20,7 +20,7 @@
       </div>
     </div>
     <a class="repolink" href="https://github.com/dgerber8/CreativeProject3.git">
-      <p>Dalan Gerber and Will Hainsworth Github Repo</p>
+      <p>Github Repo</p>
       </a>
   </div>
 
